@@ -14,6 +14,7 @@ Dagger Hilt (for dependency injection)
 Paging (to facilitate fast loading and provide pagination)  
 Lifecycle Extensions (to take advantage of lifecycle elements)  
 View Binding (to provide easier access to view objects)  
+Flow + Coroutines 
 
 
 ## Pages  
